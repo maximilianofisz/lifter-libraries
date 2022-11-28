@@ -1,0 +1,23 @@
+{
+  "name": "lifter-libraries",
+  "version": "1.0.0",
+  "description": "Helpers, data models and useful libraries for the Lifter App",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximilianofisz/lifter-libraries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximilianofisz/lifter-libraries/issues"
+  },
+  "homepage": "https://github.com/maximilianofisz/lifter-libraries#readme",
+  "dependencies": {
+    "mongoose": "^6.7.3"
+  }
+}
